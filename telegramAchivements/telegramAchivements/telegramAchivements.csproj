@@ -104,6 +104,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Achive system\AchievementsManager.cs" />
+    <Compile Include="Achive system\Character.cs" />
+    <Compile Include="Achive system\IObservable.cs" />
+    <Compile Include="Achive system\IObserver.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
